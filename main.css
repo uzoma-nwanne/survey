@@ -39,6 +39,7 @@ main{
     z-index: 1;
     color: #fff;
     width: 50%;
+    min-width: 500px;
 }
 
 #title{
